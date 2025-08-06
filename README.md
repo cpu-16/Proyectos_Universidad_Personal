@@ -42,7 +42,7 @@
 - Metodología: encuesta + verificación con HIBP y Holehe.
 - Hallazgos: bajo uso de MFA; contraseñas débiles/reutilizadas; interés alto pero poca implementación; necesidad de capacitación.
 - Recomendaciones: activar MFA (p. ej., Authenticator/TOTP), usar gestor de contraseñas, revisar correos en HIBP, y ejecutar campañas/lineamientos institucionales.
-📄 **Lee el Artículo completo aquí:**
- [**Seguridad Digital – UTP Veraguas**](https://github.com/cpu-16/Proyectos_Universidad_Personal/blob/main/Lab_Copia%20de%20Seguridad%20y%20Recuperaci%C3%B3n%20en%20Entornos%20NAS.pdf)
+  📄 **Lee el Artículo completo aquí:**
+   [**Seguridad Digital – UTP Veraguas**](https://github.com/cpu-16/Proyectos_Universidad_Personal/blob/main/Lab_Copia%20de%20Seguridad%20y%20Recuperaci%C3%B3n%20en%20Entornos%20NAS.pdf)
 
 ---
