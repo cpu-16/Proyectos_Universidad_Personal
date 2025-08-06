@@ -23,7 +23,7 @@
 - Servicios en **Ubuntu Server**.  
 - Gestión de DNS y subdominios con **Cloudflare**.  
   📄 **Lee la documentación / manual completo:**  
-  [**Manual Configuración Cloudflare-Tunel (PDF)**](https://github.com/cpu-16/Proyectos_Universidad_Personal/blob/main/manual_cloudflare_tunnel.pdf))
+  [**Manual Configuración Cloudflare-Tunel (PDF)**](https://github.com/cpu-16/Proyectos_Universidad_Personal/blob/main/manual_cloudflare_tunnel.pdf)
 
 - Certificados SSL/TLS con **Certbot** y **Nginx Proxy Manager**.  
 - Conexiones seguras vía **Tailscale (VPN)**.  
@@ -43,6 +43,6 @@
 - Hallazgos: bajo uso de MFA; contraseñas débiles/reutilizadas; interés alto pero poca implementación; necesidad de capacitación.
 - Recomendaciones: activar MFA (p. ej., Authenticator/TOTP), usar gestor de contraseñas, revisar correos en HIBP, y ejecutar campañas/lineamientos institucionales.
   📄 **Lee el Artículo completo aquí:**
-  [**Seguridad Digital – UTP Veraguas**](https://github.com/cpu-16/Proyectos_Universidad_Personal/blob/main/Art%C3%ADculo_MFA.pdf))
+  [**Seguridad Digital – UTP Veraguas**](https://github.com/cpu-16/Proyectos_Universidad_Personal/blob/main/Art%C3%ADculo_MFA.pdf)
 
 ---
